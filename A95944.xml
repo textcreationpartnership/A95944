@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of my Lord Windsor's late proceedings with Mr. John Griffith, occasioned by his vain aspersions. / And undertaken by an unknown servant of his Lordship.</title>
+            <author>Unknown servant of his Lordship.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95944</idno>
+            <idno type="STC">Wing V485</idno>
+            <idno type="STC">Thomason E594_16</idno>
+            <idno type="STC">ESTC R204695</idno>
+            <idno type="EEBO-CITATION">99864160</idno>
+            <idno type="PROQUEST">99864160</idno>
+            <idno type="VID">165556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of my Lord Windsor's late proceedings with Mr. John Griffith, occasioned by his vain aspersions. / And undertaken by an unknown servant of his Lordship.</title>
+                  <author>Unknown servant of his Lordship.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An account of a duel between Thomas Windsor (styled Lord Windsor, and later created Earl of Plymouth), and John Griffith.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 5 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Griffith, John, --  of Llyne.</term>
+               <term>Plymouth, Thomas Windsor Windsor, --  Earl of, 1627?-1687.</term>
+               <term>Dueling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165556:1" rendition="simple:additions"/>
+            <head>A VINDICATION OF My Lord WINDSOR'S late Proceedings WITH Mr. JOHN GRIFFITH, Occaſioned by his vain Aſperſions. <hi>And undertaken by an unknown Servant of his Lordſhip.</hi>
+            </head>
+            <p>IT is, I confeſs, an officious preſumption in me, to undertake the defence of a Gentleman ſo eminent<g ref="char:EOLhyphen"/>ly known by the clearneſs of his Reputation, as my Lord <hi>Windſor</hi> is to moſt of the Engliſh Gentry; eſpe<g ref="char:EOLhyphen"/>cially ſince my Lord himſelf is ſo much aſhamed to have any more to do with his unworthy Detractor, that I have often heard him ſay, He will rather caſt himſelf upon the hazard of Cenſure, amongſt thoſe who are ſtrangers to his perſon and proceedings, then blemiſh his diſcretion, by continuing to anſwer that impudent man in his folly. Yet ſince Mr. <hi>Griffith</hi> hath ſo lately proceeded to the higheſt act of unworthineſs (as to poſt a man up for a Coward, who fought with him, diſ<g ref="char:EOLhyphen"/>mounted him, and not onely gave him his life, but ſaved him the ſhame of begging it) my duty and ſervice to his Lordſhip is of ſuch force, That without either his conſent or privacy, I think my ſelf bound in Juſtice to his merit, thus far to publiſh his defence, by giving a true Narra<g ref="char:EOLhyphen"/>tive of the occaſion and ground of the Quarrel, the circumſtances of the Fight, and the ſubſequent pro<g ref="char:EOLhyphen"/>ceedings of both parties.</p>
+            <pb n="2" facs="tcp:165556:2"/>
+            <p>It is ſcarce unknown to any, how Mr. <hi>Griffith</hi> made violent aſſault upon the unſpotted chaſtity of the Lady <hi>Calvely</hi> in her Husbands time; in purſuance whereof (not to reckon up his frantick addreſſes) he killed one of her Servants, for which he fled the Land; and finding his beaſtly luſt divulged by the diſdain and ſcorn of that vertuous Lady, and the ſad accident of the murther of her Servant, the heat of his amours was ſoon con<g ref="char:EOLhyphen"/>verted into the depth of malice; and leſt her chaſtity ſhould triumph over his bruitiſhneſs, he began to pub<g ref="char:EOLhyphen"/>liſh doubtful diſcourſes, tending to the undermining and blaſting of her Reputation. It fortuned that the Lady ſoon after became a Widow, and Mr. <hi>Griffith</hi> then con<g ref="char:EOLhyphen"/>ceived new hopes of enjoying her in a lawful way of Marriage, which made him (although abſent) imploy watchful eyes over her. My Lord <hi>Windſor,</hi> upon the com<g ref="char:EOLhyphen"/>mon ſtock of civility to all Ladies, did frequently viſit her: This ſo much ſtirred the jealous part of Mr. <hi>Grif<g ref="char:EOLhyphen"/>fith,</hi> that although he never ſaw the face of my Lord <hi>Windſor,</hi> he writ a Letter to him on the 16 of <hi>January</hi> from <hi>Callice,</hi> wherein he ſeemed to lay a peremptory claim to the Lady, and told my Lord, That either he muſt deſiſt from thoſe his addreſſes, or give him a meet<g ref="char:EOLhyphen"/>ing at <hi>Callice:</hi> To this my Lord returned anſwer, That he was, indeed, a great Servant to the Lady <hi>Calvely;</hi> That if the whole Kingdom did not ſpeak her to be a woman of an untainted repute, he ſhould not need Mr. <hi>Griffiths</hi> advice to deſiſt; and that ſince his lan<g ref="char:EOLhyphen"/>guage was ſo peremptory, he did not decline the giving of him a meeting at <hi>Callice,</hi> or where he ſhould ap<g ref="char:EOLhyphen"/>point. <hi>Griffith</hi> replyed on the 17 of <hi>Febr.</hi> That he had ſent a Servant, to know the time of his Lordſhips coming over; and like <hi>Dametas,</hi> concludeth thus, <hi>My
+<pb n="3" facs="tcp:165556:2"/> Lord, when you do underſtand all things truly, I doubt not but you will judge that I had reaſon to do what I did.</hi> On the 24 of the ſame Moneth, he writ a large Letter, full of the moſt ſcurrilous, ſordid, ungentleman-like railing, both againſt the Lady and my Lord, that none but Mr. <hi>Griffith,</hi> or one of the Oyſter-wives at <hi>Bellines<g ref="char:EOLhyphen"/>gate</hi> could utter, which in tenderneſs of the Ladies name, and the Readers ſtomack, I omit. To both theſe my Lord anſwered on the 15 of <hi>March,</hi> to this pur<g ref="char:EOLhyphen"/>poſe, That it was unworthy of him to reply to all his ugly railing and bawdy diſcourſe; That were there no ſuch woman living as my Lady <hi>Calvely,</hi> he would go to the fartheſt part of the Earth to fight with him; That if the Parliament or Army did not hinder him by ſome unexpected reſtraint, he would be with him within a Moneth: and accordingly his Lordſhip went over four<g ref="char:EOLhyphen"/>teen days before the Moneth was expired, and ſent him word of it to <hi>Callice;</hi> he told the Meſſenger upon read<g ref="char:EOLhyphen"/>ing the Letter, that he wondred at his Lordſhips coming, and asked if he had any quarrel to him, and let fall many expreſſions, betraying a great unwillingneſs to fight: in the end he writ a very civil Letter, promiſing that within four days his Lordſhip ſhould ſee him, yet came not in three weeks after. My Lord perceiving his long ſtay, whereby the buſineſs began to grow into diſ<g ref="char:EOLhyphen"/>courſe at <hi>Bruxels,</hi> retired from thence to <hi>Bridges,</hi> but left a Letter for him, (which he received the ſame day) wherein his Lordſhip told him, That he would ſtay a week more for him, but in caſe he heard not from him by that time, he would wait no longer. When this week was paſſed, my Lord ſent his Second and one Mr. <hi>Ray<g ref="char:EOLhyphen"/>nolds</hi> to <hi>Bruxels,</hi> where they found him out, highly ranting againſt his Lordſhip, upon a ſuppoſition that
+<pb n="4" facs="tcp:165556:3"/> he was gone for <hi>England;</hi> but when his Lordſhips Se<g ref="char:EOLhyphen"/>cond told him that he came from him, to finde him, and appoint the time and place, he ſwore deeply that he would not ſtir out of the Town till he ſaw him, although he was but ten leagues diſtant. His Lordſhip was con<g ref="char:EOLhyphen"/>tented to humor him in that too, hoping to give a ſudden diſpatch to the long protracted Combat, and went back to him: There Mr. <hi>Griffith</hi> uſed many diſcourſes, the greateſt part tending to an evaſion of fighting, and a flat denyal of having ſent his Lordſhip any Challenge; but his Lordſhip threatned to declare him a Coward, if he did not give him preſent ſatisfaction: Then indeed he ſent his Second to receive the time and place, whereof both he and his Second failed, and in ſtead of coming, he ſo much publiſhed the appointment, that although his Lordſhip rid the firſt night from <hi>Bruxels</hi> to the <hi>Saſs</hi> in <hi>Holland,</hi> he was there clapt up, but made an eſcape to a Countrey Village, where both a Guard from the <hi>Spaniards</hi> and the <hi>Hollanders</hi> came to ſearch for him, and after eight hours ſeeking, they found him, and car<g ref="char:EOLhyphen"/>ried him away Priſoner to <hi>Gaunt</hi> Caſtle, where he was detained, till he engaged his Promiſe, not to fight with Mr. <hi>Griffith.</hi> As ſoon as he had paſſed his Parole, he ſent to him again, to let him know, That his honor was more concerned in fighting with him, then in being a true Priſoner, and therefore deſired him to meet. Hereupon a ſecond day and hour was agreed on, and my Lord came preciſely at the time, but <hi>Griffith</hi> appeared not till four hours after. When they met, and were prepared for the fight, Mr. <hi>Griffith</hi> (although the Challenger) ſtood a long time without advancing; whereat my Lord being aſhamed on his Adverſaries be<g ref="char:EOLhyphen"/>half, caracolled toward him, and after the diſcharge of
+<pb n="5" facs="tcp:165556:3"/> their firſt Piſtols, my Lord gained the Crupper of him; and chaſed him round the Seconds (who ſtood as wit<g ref="char:EOLhyphen"/>neſſes onely, but did not engage) and <hi>Griffith</hi> diſcharged his ſecond Piſtol at my Lords Second (Sergeant Major <hi>Goff</hi>) and wounded him, whereof he dyed within a week; but my Lord to revenge this, made a full thruſt at him, and tumbled him off his horſe; and having him thus at mercy, thought it a greater Conqueſt to ſpare, then take away his deſpicable life, and thereupon wheeled off, becauſe he would not purſue the advantage. Indeed <hi>Griffith</hi> had then the impudence to ſay, <hi>My Lord, if you are a gallant man, alight, and fight with me on foot;</hi> which in good Engliſh ſignifieth no better then thus, My Lord, now you have diſarmed me, throw a<g ref="char:EOLhyphen"/>way your Sword, if you are a gallant man, and fight with me at Cuffs. My Lord told him, He would give him leave to get up on his horſe again, if he had not yet enough; but Lieutenant Colonel <hi>Apſley</hi> (Second to Mr. <hi>Griffith</hi>) ſtepped in, and ſaid, That was too great an advantage to be given, and he being the onely Se<g ref="char:EOLhyphen"/>cond left, could not in honor ſuffer it. My Lord then asked Mr. <hi>Griffith,</hi> If he had any more to ſay to him? he replyed, He was his Servant: and taking up the Pi<g ref="char:EOLhyphen"/>ſtols which my Lord had thrown away in the fight, kiſſed them, and gave them to his Lordſhip; and ſo my Lord came off.</p>
+            <p>The moſt material of theſe Circumſtances, appeareth in a Letter written by Lieutenant Colonel <hi>Apſley,</hi> to his Brother Sir <hi>Allain Apſley,</hi> which I therefore, here in<g ref="char:EOLhyphen"/>ſert <hi>verbatim.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Gaunt, <date>6 June, New Stile.</date>
+                     </dateline>
+                     <lb/>
+                     <salute>DEar Brother,</salute>
+                  </opener>
+                  <p>Knowing that in all publike actions, a mans Reputation is wracked by the inclination of
+<pb n="6" facs="tcp:165556:4"/> of the parties affected either to the one or the other ſide, I thought good to give you the true Relation of a mortal quarrel, for theſe four moneths, the onely diſcourſe of this Countrey, which was betwixt my Lord <hi>Windſor</hi> and Mr. <hi>Griffith,</hi> the laſt of which choſe me to be his Se<g ref="char:EOLhyphen"/>cond; and this Sunday morning we met betwixt <hi>Saſs</hi> and <hi>Gaunt,</hi> where we (being engaged onely as witneſſes to our Principals valour) ſaw a very handſom Charge on each ſide with their Piſtols; but when it came to be tryed by the Sword, my Lord had ſo much the advantage of the other Gentleman, as he tumbled him clear from his horſe: At which, ſeeing his Lordſhip unwilling to take an ad<g ref="char:EOLhyphen"/>vantage of an Enemy in his power, it rather invited me to part them, then to ſtand ſtill and ſee the death of one of them. Mr. <hi>Griffith</hi> deſired to fight again; I being the onely judge left (the other being accidentally wound<g ref="char:EOLhyphen"/>ed) did believe diſmounting from horſe-back, to be the ſame as diſarming on foot; and though my Lord would have freely conſented to it, that Mr. <hi>Griffith</hi> ſhould mount and fight again, I thought I ſhould have been injurious to his Lordſhip, if I ſhould have conſented to it, <hi>&amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>After my Lord had ſpent Five or Six hundred pounds to give ſatisfaction to this unequal Enemy, he returned home; I dare ſay, more aſhamed of his Victory, then his Adverſary was of his Defeat, and was very ſparing of the diſcourſe of it: Indeed Mr. <hi>Griffiths</hi> Second had ſo much Honor in him, as to do my Lord all right in his re<g ref="char:EOLhyphen"/>lations (howſoever ſome have unworthily publiſhed ſto<g ref="char:EOLhyphen"/>ries in his Name to my Lords diſadvantage.)</p>
+            <p>Mr. <hi>Griffith</hi> finding himſelf fallen, in the opinion of the world, from the reputation of that great Kill-cow which he paſſed for amongſt ſome, hath ſince endea<g ref="char:EOLhyphen"/>vored,
+<pb n="7" facs="tcp:165556:4"/> contrary to the Law of Arms, to provoke my Lord to a ſecond tryal, and bring him to fight on foot, where his own skill (and in that his courage) chiefly lieth; and to this end hath multiplyed provocations againſt his Lordſhip by Diſcourſe and Letters: To the which his Lordſhip hath divers times made this anſwer, That he will receive no more Letters from him, nor en<g ref="char:EOLhyphen"/>deavor to give him any further ſatisfaction, ſince his Spirit is ſo reſtleſs, and his Deſires ſo exorbitant. And in purſuance of this reſolution, his Lordſhip hath torn many of Mr. <hi>Griffiths</hi> Letters, and burnt them unread, before the face of thoſe that brought them. Yet the laſt week another Letter was brought his Lordſhip from Mr. <hi>Griffith</hi> by one Mr. <hi>Marbles</hi> (if I miſtake him not) who required an anſwer to it; my Lord tore it in his ſight, and gave it his Foot-man to burn; ſaying, He would afford Mr. <hi>Griffith</hi> no other anſwer, as not eſteem<g ref="char:EOLhyphen"/>ing him worthy of any other reſpect; but if any Gentle<g ref="char:EOLhyphen"/>man or Mr. <hi>Marbles</hi> himſelf would undertake to juſtifie Mr. <hi>Griffiths</hi> proceedings, he would fight with him: To this Mr. <hi>Marbles</hi> ſcraped ſome few legs, and deſired to be excuſed; but within Two days after poſted up a ſcur<g ref="char:EOLhyphen"/>rilous diſgraceful paper againſt my Lord, in divers pla<g ref="char:EOLhyphen"/>ces of the Town, which was ſurrounded with Knaves of <hi>Spades</hi> and <hi>Clubs</hi> (proper Hierogliphicks of Mr. <hi>Griffiths</hi> honeſty and wit) and intended to have ſet out all his gal<g ref="char:EOLhyphen"/>lant acts in print; but he was prevented by Mr. <hi>Speakers</hi> Warrant, by vertue whereof he was apprehended and ſent to <hi>Newgate.</hi>
+            </p>
+            <p>This my Lord hath ſuffered, without any the leaſt diſtemper or trouble, as conceiving Mr. <hi>Griffiths</hi> tongue or pen no Slander, and that all theſe little <hi>Buffoneries</hi> ſerve but to blazon his own Baſeneſs and Folly; who, if
+<pb n="8" facs="tcp:165556:5"/> he were not quite out of his Wits, or not yet quite out of his Pagery, could not think this proceeding Man-like, to argue my Lord a Coward, becauſe he dare not be mad. But where lieth the Policy of all this ado to prove and publiſh my Lord <hi>Windſor</hi> a Coward? For, grant Mr. <hi>Griffiths</hi> Allegation true in that point, What a poor Wretch doth he conclude himſelf, who was diſmounted by the man he endeavoreth to leſſen?</p>
+            <p>I hope this Diſcourſe will ſerve, not only to vindicate my Lord (who in this very buſineſs with <hi>Griffith,</hi> is ſo far from ſuffering in the reputation of his Courage, that moſt men have rather condemned him of precipitancy and raſhneſs) but likewiſe let the world ſee, that Mr. <hi>Grif<g ref="char:EOLhyphen"/>fith</hi> is not fit for any Gentlemans converſation, whether by way of friendſhip or defiance, having broken the Laws of Honor, in holding up his hand againſt a Gen<g ref="char:EOLhyphen"/>tleman who gave him his Life; unleſs he will plead it a freſh injury, That he is permitted to ſurvive and con<g ref="char:EOLhyphen"/>template his own Diſgrace.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
